@@ -2,6 +2,6 @@
 
 int main(int ac, char **av)
 {
-	printf("%d\n", av[1]);
+	printf("%s\n", av[1]);
 	return 0;
 }
